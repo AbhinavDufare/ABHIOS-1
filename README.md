@@ -1,8 +1,8 @@
 # ABHIOS-1
 ABHIOS is a browser-based desktop simulation with a macOS-style UI, draggable windows, a dynamic dock, dark mode, and apps like Finder, Terminal, Notes, Calculator, Browser, and Settings for a smooth, modern OS experience.
 
-Description of Your ABHIOS System
-Your WebOS is a fully interactive, browser-based desktop operating system simulation built using HTML, TailwindCSS, React, and Babel. It recreates the experience of a modern OS environment with windows, a dock, a top status bar, draggable apps, dark mode, and animations—all running inside a web page.
+Description of ABHIOS System
+is a fully interactive, browser-based desktop operating system simulation built using HTML, TailwindCSS, React, and Babel. It recreates the experience of a modern OS environment with windows, a dock, a top status bar, draggable apps, dark mode, and animations—all running inside a web page.
 
 Design & UI
 The system features a macOS-inspired interface with:
